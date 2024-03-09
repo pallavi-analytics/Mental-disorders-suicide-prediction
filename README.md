@@ -19,11 +19,11 @@ descriptive analysis is conducted for all relevant columns. To further explore t
 Correlation analysis between variables and hypothesis testing (T-test and ANOVA) are conducted to establish associations or links between variables.
 
 # Predictive Modelling
--K-Nearest Neighbors (KNN)
--Random Forest
--Gradient Boosting
--XGBoost
--Neural Network
+- K-Nearest Neighbors (KNN)
+- Random Forest
+- Gradient Boosting
+- XGBoost
+- Neural Network
 
 Additionally, K-fold and repetitive K-folds are applied to ensure bias removal in the analysis.
 
