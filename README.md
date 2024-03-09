@@ -28,8 +28,8 @@ Correlation analysis between variables and hypothesis testing (T-test and ANOVA)
 Additionally, K-fold and repetitive K-folds are applied to ensure bias removal in the analysis.
 
 # Result
-All the five models are assessed in terms of two critical metrics : RMSE and R&sup2
-XGBoost stands out as the top-performing model,boasting the lowest RMSE and a near-perfect R&sup2 score.
+All the five models are assessed in terms of two critical metrics : RMSE and R&sup2;
+XGBoost stands out as the top-performing model,boasting the lowest RMSE and a near-perfect R&sup2; score.
 
 
 
